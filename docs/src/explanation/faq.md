@@ -67,5 +67,5 @@ it exhibits a greater
 [parallelism](https://www.cprogramming.com/parallelism.html).
 
 If the scheduling by `ThreadedEx` does not yield a desired behavior, you can
-use [FoldsThreads.jl](https://github.com/JuliaFolds/FoldsThreads.jl) for
+use [FoldsThreads.jl](https://github.com/JuliaFolds2/FoldsThreads.jl) for
 different executors with different performance characteristics.
