@@ -60,4 +60,4 @@ makedocs(;
     warnonly = lowercase(get(ENV, "CI", "false")) == "true",
 )
 
-deploydocs(; repo = "github.com/JuliaFolds/FLoops.jl", push_preview = true)
+deploydocs(; repo = "github.com/JuliaFolds2/FLoops.jl", push_preview = true)
